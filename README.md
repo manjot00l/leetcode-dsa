@@ -9,6 +9,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/manjot00l/leetcode-dsa/tree/main/0202-happy-number/) | Easy |
+| [0263-ugly-number](https://github.com/manjot00l/leetcode-dsa/tree/main/0263-ugly-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
