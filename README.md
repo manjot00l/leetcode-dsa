@@ -4,6 +4,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/manjot00l/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
 | [0202-happy-number](https://github.com/manjot00l/leetcode-dsa/tree/main/0202-happy-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -22,5 +23,6 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/manjot00l/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manjot00l/leetcode-dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
