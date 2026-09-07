@@ -27,4 +27,9 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/manjot00l/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manjot00l/leetcode-dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/manjot00l/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/manjot00l/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
