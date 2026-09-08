@@ -11,6 +11,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/manjot00l/leetcode-dsa/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/manjot00l/leetcode-dsa/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/manjot00l/leetcode-dsa/tree/main/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/manjot00l/leetcode-dsa/tree/main/0202-happy-number/) | Easy |
 | [0263-ugly-number](https://github.com/manjot00l/leetcode-dsa/tree/main/0263-ugly-number/) | Easy |
 ## Two Pointers
@@ -28,6 +29,7 @@
 | [0001-two-sum](https://github.com/manjot00l/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manjot00l/leetcode-dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/manjot00l/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/manjot00l/leetcode-dsa/tree/main/0066-plus-one/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
