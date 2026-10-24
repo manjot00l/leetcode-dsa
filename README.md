@@ -18,6 +18,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manjot00l/leetcode-dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/manjot00l/leetcode-dsa/tree/main/0027-remove-element/) | Easy |
 | [0202-happy-number](https://github.com/manjot00l/leetcode-dsa/tree/main/0202-happy-number/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/manjot00l/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manjot00l/leetcode-dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/manjot00l/leetcode-dsa/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/manjot00l/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/manjot00l/leetcode-dsa/tree/main/0066-plus-one/) | Easy |
 ## Binary Search
