@@ -36,4 +36,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/manjot00l/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0058-length-of-last-word](https://github.com/manjot00l/leetcode-dsa/tree/main/0058-length-of-last-word/) | Easy |
 <!---LeetCode Topics End-->
