@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/manjot00l/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/manjot00l/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/manjot00l/leetcode-dsa/tree/main/0202-happy-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@
 | [0027-remove-element](https://github.com/manjot00l/leetcode-dsa/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/manjot00l/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/manjot00l/leetcode-dsa/tree/main/0066-plus-one/) | Easy |
+| [0169-majority-element](https://github.com/manjot00l/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,4 +42,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/manjot00l/leetcode-dsa/tree/main/0058-length-of-last-word/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/manjot00l/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/manjot00l/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/manjot00l/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/manjot00l/leetcode-dsa/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
